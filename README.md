@@ -3,7 +3,7 @@ A simple text editor class that stores an internal string when instantiated.
 This string can be manipulated via formatted input.
 
 ## Usage
-```console
+```bash
 # Parses input and prints result of each `print` command on a new line.
 $ cat input.txt | ruby main_script.rb
 c
